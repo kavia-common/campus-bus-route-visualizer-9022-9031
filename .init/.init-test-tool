@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/campus-bus-route-visualizer-9022-9031/frontend_visualization_app"
+}
